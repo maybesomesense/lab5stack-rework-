@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  functions.cpp
+  Создание кода...
+C:\Users\Asus\source\repos\lab5stack(re)\functions.cpp(50): warning C4715: inverseBracket: значение возвращается не при всех путях выполнения
+  lab5stack(re).vcxproj -> C:\Users\Asus\source\repos\lab5stack(re)\Debug\lab5stack(re).exe
